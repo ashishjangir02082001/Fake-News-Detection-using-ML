@@ -9,7 +9,7 @@ The libraries and editor used to develop this project are:
 ![download](https://user-images.githubusercontent.com/61355945/148581727-19499d09-fbf2-4695-90ae-d8899b6ff1f3.png)
 ![download](https://user-images.githubusercontent.com/61355945/148581879-4acabf6b-0c6a-4d5e-8035-38fd6c562616.png)
 ![download](https://user-images.githubusercontent.com/61355945/148581953-82e60f28-3856-4815-a96d-3165213b2d54.png)
-
+![download](https://user-images.githubusercontent.com/61355945/148582291-19fcada6-7367-4a85-981d-f17f084123c1.png)
 
 This project has been implemented by four different algorithms, namely:
 
