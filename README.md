@@ -12,10 +12,10 @@ The libraries and editor used to develop this project are:
 ![download](https://user-images.githubusercontent.com/61355945/148582291-19fcada6-7367-4a85-981d-f17f084123c1.png)
 
 This project has been implemented by four different algorithms, namely:
-- ###[Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
-- ###[Decision Tree Algorithms](https://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html)
-- ###[Gradient Boosting Classifier](https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/)
-- ###[Random Forest Classifier](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+- ### [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+- ### [Decision Tree Algorithms](https://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html)
+- ### [Gradient Boosting Classifier](https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/)
+- ### [Random Forest Classifier](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 
 #### The accuracies that different algorithms yield are as follows:
 
