@@ -2,10 +2,10 @@
 
 This project has been implemented by four different algorithms, namely:
 
-###- Logistic Regression
-###- Decision Tree Algorithms 
-###- Gradient Boosting Classifier 
-###- Random Forest Classifier 
+### - Logistic Regression
+### - Decision Tree Algorithms 
+### - Gradient Boosting Classifier 
+### - Random Forest Classifier 
 
 The accuracy gotten is nearly 98.5%.
 
